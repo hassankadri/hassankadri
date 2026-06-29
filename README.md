@@ -9,12 +9,18 @@ Building AI-powered software and scalable backend systems.
 </p>
 
 <p align="center">
+Currently seeking <b>Software Engineer</b>, <b>Backend Developer</b>, and <b>AI Engineer</b> opportunities.
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:hassankadri16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://youtube.com/@smakk16">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
@@ -28,17 +34,22 @@ I'm a Computer Applications graduate based in **Mumbai, India**, passionate abou
 
 My interests lie in **Artificial Intelligence**, **Backend Engineering**, and **Full-Stack Development**. I enjoy designing scalable APIs, building AI-powered applications using **LLMs** and **Retrieval-Augmented Generation (RAG)**, and turning ideas into production-ready software.
 
-I'm currently looking for opportunities as a **Software Engineer**, **Backend Developer**, or **AI Engineer**, where I can contribute to meaningful products, learn from experienced engineers, and continue growing.
+I'm always looking for opportunities to learn, collaborate, and contribute to impactful engineering teams.
 
 ---
 
 ## 🚀 Areas of Interest
 
-▸ Artificial Intelligence & LLMs  
-▸ Backend Engineering  
-▸ Distributed Systems  
-▸ Full-Stack Development  
-▸ System Design  
+▸ Artificial Intelligence & Large Language Models
+
+▸ Backend Engineering
+
+▸ Distributed Systems
+
+▸ Full-Stack Development
+
+▸ System Design
+
 ▸ Open Source
 
 ---
@@ -46,7 +57,7 @@ I'm currently looking for opportunities as a **Software Engineer**, **Backend De
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,fastapi,mongodb,sqlite,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,fastapi,mongodb,sqlite,git,github&theme=dark" />
 </p>
 
 <p align="center">
@@ -58,31 +69,37 @@ I'm currently looking for opportunities as a **Software Engineer**, **Backend De
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassankadri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankadri&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassankadri&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankadri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hassankadri&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=hassankadri&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **BookMySeat**  
+🔹 **[BookMySeat](https://github.com/hassankadri/BookMySeat)**  
 Full-stack movie ticket booking platform with JWT authentication, Stripe payments, and role-based access control.
 
-🔹 **AI RAG Document Query System**  
+<br>
+
+🔹 **[AI RAG Document Query System](https://github.com/hassankadri/AI-RAG-Document-Query-System)**  
 AI-powered document assistant built with FastAPI, OpenAI, and ChromaDB.
 
-🔹 **LangChain RAG System**  
+<br>
+
+🔹 **[LangChain RAG System](https://github.com/hassankadri/LangChain-RAG-System)**  
 Context-aware question answering using LangChain and vector databases.
 
-🔹 **Semantic Book Recommender**  
+<br>
+
+🔹 **[Semantic Book Recommender](https://github.com/hassankadri/Semantic-Book-Recommender)**  
 Recommendation engine using Sentence Transformers and FAISS.
 
 ---
@@ -90,4 +107,3 @@ Recommendation engine using Sentence Transformers and FAISS.
 <p align="center">
 <i>Thanks for stopping by! Feel free to explore my repositories and connect with me.</i>
 </p>
-```
