@@ -72,15 +72,13 @@ I'm always looking for opportunities to learn, collaborate, and contribute to im
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassankadri&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankadri&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=hassankadri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hassankadri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hassankadri&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 📌 Featured Projects
