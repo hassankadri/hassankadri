@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building AI-powered software and scalable backend systems.
+Building AI-powered software and scalable backend systems.
 </p>
 
 <p align="center">
@@ -26,13 +26,13 @@
 
 I'm a Computer Applications graduate based in **Mumbai, India**, passionate about building software that solves real-world problems.
 
-My interests lie in **Artificial Intelligence**, **Backend Engineering**, and **Full-Stack Development**. I enjoy designing scalable APIs, developing AI-powered applications using LLMs and RAG, and turning ideas into products that people can actually use.
+My interests lie in **Artificial Intelligence**, **Backend Engineering**, and **Full-Stack Development**. I enjoy designing scalable APIs, building AI-powered applications using **LLMs** and **Retrieval-Augmented Generation (RAG)**, and turning ideas into production-ready software.
 
 I'm currently looking for opportunities as a **Software Engineer**, **Backend Developer**, or **AI Engineer**, where I can contribute to meaningful products, learn from experienced engineers, and continue growing.
 
 ---
 
-## 🚀 Interests
+## 🚀 Areas of Interest
 
 ▸ Artificial Intelligence & LLMs  
 ▸ Backend Engineering  
@@ -45,51 +45,49 @@ I'm currently looking for opportunities as a **Software Engineer**, **Backend De
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,fastapi,mongodb,sqlite,git,github,vscode&theme=dark" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge" />
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0096D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hassankadri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankadri&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassankadri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankadri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassankadri&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=hassankadri&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 📊 Contribution Graph
-
-[![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hassankadri&theme=tokyo-night&hide_border=true)](https://github.com/hassankadri)
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **BookMySeat** — Full-stack movie ticket booking platform with JWT authentication and Stripe payments.
+🔹 **BookMySeat**  
+Full-stack movie ticket booking platform with JWT authentication, Stripe payments, and role-based access control.
 
-🔹 **AI RAG Document Query System** — AI-powered document assistant using FastAPI, OpenAI, and ChromaDB.
+🔹 **AI RAG Document Query System**  
+AI-powered document assistant built with FastAPI, OpenAI, and ChromaDB.
 
-🔹 **LangChain RAG System** — Context-aware question answering using LangChain and vector databases.
+🔹 **LangChain RAG System**  
+Context-aware question answering using LangChain and vector databases.
 
-🔹 **Semantic Book Recommender** — NLP-based recommendation engine using Sentence Transformers and FAISS.
+🔹 **Semantic Book Recommender**  
+Recommendation engine using Sentence Transformers and FAISS.
 
 ---
 
 <p align="center">
-<i>"Code should solve problems, not just compile."</i>
+<i>Thanks for stopping by! Feel free to explore my repositories and connect with me.</i>
 </p>
 ```
