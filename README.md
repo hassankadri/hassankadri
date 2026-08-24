@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.png" width="300" alt="Hassan Kadri">
+<img src="portrait.gif" width="300" alt="Hassan Kadri">
 
 <br><br>
 
