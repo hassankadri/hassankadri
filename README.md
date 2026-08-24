@@ -101,7 +101,7 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 
 <div align="center">
 
-## `~/` selected work
+## `~/` Selected Work
 
 <br>
 
@@ -191,7 +191,7 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 
 <div align="center">
 
-## `~/` contribution graph
+## `~/` Contribution Graph
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=hassankadri&theme=github-compact&hide_border=true&area=true"
@@ -204,21 +204,24 @@ alt="GitHub contribution graph">
 
 <div align="center">
 
-## `~/` currently building
+## `~/` Currently Building
 
 <br>
 
 `ideas` → `experiments` → `projects` → `things that work`
 
-<br><br>
+<br>
 
 **Currently exploring AI, building projects, and learning something new along the way.**
 
-<br><br>
+<br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:00C9FF&height=70&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:00C9FF&height=55&section=footer"
 width="100%"
 alt="Footer">
 
 </div>
+
+---
+
