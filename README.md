@@ -193,22 +193,10 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 
 ## `~/` contribution graph
 
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/hassankadri/hassankadri/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/hassankadri/hassankadri/output/github-contribution-grid-snake.svg">
-
 <img
-src="https://raw.githubusercontent.com/hassankadri/hassankadri/output/github-contribution-grid-snake.svg"
+src="https://github-readme-activity-graph.vercel.app/graph?username=hassankadri&theme=github-compact&hide_border=true&area=true"
 width="95%"
-alt="GitHub contribution snake">
-
-</picture>
+alt="GitHub contribution graph">
 
 </div>
 
@@ -218,20 +206,19 @@ alt="GitHub contribution snake">
 
 ## `~/` currently building
 
-ideas
-  ↓
-experiments
-  ↓
-projects
-  ↓
-things that actually work
-
 <br>
 
-Always learning. Always building.
+`ideas` → `experiments` → `projects` → `things that work`
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:00C9FF&height=100&section=footer" width="100%" alt="Footer">
+**Currently exploring AI, building projects, and learning something new along the way.**
 
-</div> ```
+<br><br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:00C9FF&height=70&section=footer"
+width="100%"
+alt="Footer">
+
+</div>
