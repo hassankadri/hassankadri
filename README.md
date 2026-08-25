@@ -15,7 +15,6 @@
 
 </td>
 
-
 <!-- RIGHT: PERSONAL SUMMARY -->
 
 <td width="58%" align="center" valign="middle">
@@ -37,7 +36,6 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 </tr>
 </table>
 
-
 <br>
 
 <!-- SOCIAL LINKS -->
@@ -55,8 +53,6 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 </a>
 
 </div>
-
----
 
 ---
 
@@ -97,8 +93,6 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 
 ---
 
----
-
 <div align="center">
 
 ## `~/` Selected Work
@@ -120,7 +114,7 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 
 <br>
 
-<a href="https://github.com/hassankadri">
+<a href="https://github.com/hassankadri/Clawbit">
 <strong>View Project →</strong>
 </a>
 
@@ -130,14 +124,14 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 
 ### 🧠 RAG Document System
 
-**A document Q&A system that turns uploaded documents into something you can actually talk to.**
+**A document Q&A system that turns uploaded content into something you can actually search, retrieve and talk to.**
 
-`Python` `FastAPI` `RAG`  
-`FAISS` `ChromaDB`
+`Python` `RAG` `Jupyter`  
+`Document Retrieval` `Semantic Search`
 
 <br>
 
-<a href="https://github.com/hassankadri">
+<a href="https://github.com/hassankadri/AI-RAG-Document-Query-System">
 <strong>View Project →</strong>
 </a>
 
@@ -151,14 +145,14 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 
 ### 🎬 BookMySeat
 
-**A complete movie booking experience covering seats, authentication, payments and bookings.**
+**A movie ticket booking platform focused on the complete flow from choosing a movie to selecting seats and making a booking.**
 
 `React` `Node.js` `Express`  
-`MongoDB` `JWT` `Stripe`
+`MongoDB` `JWT`
 
 <br>
 
-<a href="https://github.com/hassankadri">
+<a href="https://github.com/hassankadri/BookMySeat">
 <strong>View Project →</strong>
 </a>
 
@@ -168,14 +162,14 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 
 ### 📚 Semantic Book Recommender
 
-**A recommendation system that looks beyond keywords and finds books based on meaning.**
+**A recommendation system that looks beyond keywords and finds books based on meaning and semantic similarity.**
 
 `Python` `Sentence Transformers`  
 `FAISS` `Pandas`
 
 <br>
 
-<a href="https://github.com/hassankadri">
+<a href="https://github.com/hassankadri/Semantic-book-recommender">
 <strong>View Project →</strong>
 </a>
 
@@ -193,10 +187,12 @@ Developer by profession, builder by habit. I like experimenting with new ideas, 
 
 ## `~/` Contribution Graph
 
+<br>
+
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=hassankadri&theme=github-compact&hide_border=true&area=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassankadri&theme=github_dark"
 width="95%"
-alt="GitHub contribution graph">
+alt="Hassan Kadri GitHub contribution graph">
 
 </div>
 
@@ -204,24 +200,87 @@ alt="GitHub contribution graph">
 
 <div align="center">
 
-## `~/` Currently Building
+## `~/` currently building
+
+### 🩺 MedVision
+
+**Chest X-Ray → Deep Learning → Deployment**
 
 <br>
 
-`ideas` → `experiments` → `projects` → `things that work`
+<table border="0">
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/01-Collect-39D353?style=for-the-badge">
 
 <br>
 
-**Currently exploring AI, building projects, and learning something new along the way.**
+🗂️ **Dataset**
+
+<sub>Prepare & version</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/02-Learn-39D353?style=for-the-badge">
 
 <br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:00C9FF&height=55&section=footer"
-width="100%"
-alt="Footer">
+🧠 **Training**
+
+<sub>Find patterns</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/03-Prove-39D353?style=for-the-badge">
+
+<br>
+
+📊 **Evaluation**
+
+<sub>Measure results</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/04-Ship-39D353?style=for-the-badge">
+
+<br>
+
+🚀 **Deployment**
+
+<sub>Make it useful</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+`TensorFlow` · `DVC` · `MLflow` · `Docker` · `Flask` · `CI/CD`
+
+<br>
+
+<sub><i>Not just training a model — learning how to take it all the way to production.</i></sub>
 
 </div>
 
 ---
 
+<div align="center">
+
+**Build it. Break it. Understand it. Build it better.**
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:00C9FF&height=75&section=footer"
+width="100%"
+alt="Footer">
+
+</div>
