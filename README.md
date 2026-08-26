@@ -176,7 +176,7 @@ Atharva Institute of Information Technology, Mumbai · *July 2023 – June 2026*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2a3a&height=100&section=footer" width="100%">
+
 
 <br>
 
@@ -189,9 +189,7 @@ Atharva Institute of Information Technology, Mumbai · *July 2023 – June 2026*
 
 <br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:00C9FF&height=75&section=footer"
-width="100%"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2a3a&height=100&section=footer" width="100%"
 alt="Footer">
 
 </div>
