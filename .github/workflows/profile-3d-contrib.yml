@@ -18,13 +18,13 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: hassankadri
+          USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & push
+      - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A
-          git commit -m "generate 3D contribution graph" || exit 0
-          git push
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
