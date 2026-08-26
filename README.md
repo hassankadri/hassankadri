@@ -4,18 +4,21 @@
 
 <br><br>
 
-<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellspacing="0" cellpadding="0">
 <tr>
-<td bgcolor="#0d1117">
+<td colspan="2" bgcolor="#0d1117">
 🔴 🟡 🟢 &nbsp; <b>hassankadri — profile</b>
 </td>
 </tr>
 <tr>
-<td bgcolor="#0d1117" align="center">
+<td bgcolor="#0d1117" align="center" valign="top">
 <br>
-<img src="portrait.svg" width="200" alt="Hassan Kadri">
+<img src="portrait.svg" width="350" alt="Hassan Kadri">
 <br><br>
-<img src="terminal-card.svg" width="90%" alt="Hassan Kadri stats">
+</td>
+<td bgcolor="#0d1117" align="center" valign="top">
+<br>
+<img src="terminal-card.svg" width="820" alt="Hassan Kadri stats">
 <br><br>
 </td>
 </tr>
