@@ -129,39 +129,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b2a3a&height=70&section=header&text=Experience&fontSize=26&fontColor=5EE6D0&fontAlignY=55&animation=fadeIn" width="100%">
-
-<table width="100%">
-<tr>
-<td width="26%" valign="top">
-<b>JPMorganChase</b><br>
-<sub>Software Engineering Job Simulation</sub><br>
-<sub><i>Forage · June 2026</i></sub>
-</td>
-<td valign="top">Built a Spring Boot microservice with Kafka consumers and REST APIs, handling end-to-end transaction processing across 3 workflow stages.</td>
-</tr>
-<tr><td colspan="2"><hr></td></tr>
-<tr>
-<td valign="top">
-<b>Deloitte Australia</b><br>
-<sub>Data Analytics Job Simulation</sub><br>
-<sub><i>Forage · June 2026</i></sub>
-</td>
-<td valign="top">Built Tableau dashboards tracking machine downtime across 4+ manufacturing facilities and cleaned 1,000+ workforce records for pay equity analysis.</td>
-</tr>
-<tr><td colspan="2"><hr></td></tr>
-<tr>
-<td valign="top">
-<b>BCG GenAI</b><br>
-<sub>AI Job Simulation</sub><br>
-<sub><i>Forage · June 2026</i></sub>
-</td>
-<td valign="top">Built a rule-based financial chatbot in Python to analyze SEC 10-K filings and automate query handling.</td>
-</tr>
-</table>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b2a3a&height=70&section=header&text=Education%20%2B%20Certifications&fontSize=24&fontColor=5EE6D0&fontAlignY=55&animation=fadeIn" width="100%">
 
 **🎓 Bachelor of Computer Applications**
@@ -171,7 +138,10 @@ Atharva Institute of Information Technology, Mumbai · *July 2023 – June 2026*
 
 🏅 Oracle Cloud Infrastructure 2025 AI Foundations Associate — *Aug 2025 – Oct 2025*<br>
 🏅 Deloitte Australia Cyber Job Simulation (Forage) — *Dec 2025*<br>
-🏅 Cyber Security Course Certification (YCMOU) — *Apr 2026*
+🏅 Cyber Security Course Certification (YCMOU) — *Apr 2026*<br>
+🏅 JPMorganChase — Software Engineering Job Simulation (Forage) — *June 2026*<br>
+🏅 Deloitte Australia — Data Analytics Job Simulation (Forage) — *June 2026*<br>
+🏅 BCG GenAI — AI Job Simulation (Forage) — *June 2026*
 
 <br>
 
@@ -187,50 +157,37 @@ Atharva Institute of Information Technology, Mumbai · *July 2023 – June 2026*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b2a3a&height=70&section=header&text=Currently%20Building&fontSize=26&fontColor=5EE6D0&fontAlignY=55&animation=fadeIn" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=5EE6D0&center=true&vCenter=true&width=700&lines=%24+python+train.py+--model+medvision;%5B%E2%9C%93%5D+Dataset+collected+%2B+versioned+(DVC);%5B%E2%9C%93%5D+Training+loop+initialized+(TensorFlow);%5B~%5D+Evaluating+model...+87%25+mAP;%5B+%5D+Deploying+to+production" width="100%">
+<div align="center">
 
-<br>
-
-<h3 align="center">🩻 MedVision</h3>
-<p align="center"><i>Chest X-Ray → Deep Learning → Deployment</i></p>
-
-<pre align="center">
-main
- │
- ├── 📁 collect-dataset      ✔ merged
- │
- ├── 🧠 train-baseline       ✔ merged
- │
- ├── 📊 evaluate-metrics     ● in progress   [▓▓▓▓▓▓▓░░░] 72%
- │
- └── 🚀 deploy-production    ○ planned
+<pre>
+   ┌─────────────────────────────────────┐
+   │                                       │
+   │     ○ ○ ○   idle.exe                 │
+   │                                       │
+   │     no active build                  │
+   │     picking the next thing to break  │
+   │                                       │
+   └─────────────────────────────────────┘
 </pre>
 
-<p align="center">
-<code>TensorFlow</code> · <code>DVC</code> · <code>MLflow</code> · <code>Docker</code> · <code>Flask</code> · <code>CI/CD</code>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=900&color=6E7681&center=true&vCenter=true&width=600&lines=deciding+what+to+build+next...;check+back+soon+%F0%9F%91%80" width="100%">
 
-<p align="center"><i>Not just training a model — learning how to take it all the way to production.</i></p>
+</div>
 
 <br>
-
-<p align="center"><b>Build it. Break it. Understand it. Build it better.</b></p>
-
-<blockquote align="center">
-<i>"The best way to predict the future is to invent it."</i>
-<br>— Alan Kay
-</blockquote>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2a3a&height=100&section=footer" width="100%">
 
 <br>
 
-
----
-
 <div align="center">
 
+<blockquote>
+<i>"The best way to predict the future is to invent it."</i>
+<br>— Alan Kay
+</blockquote>
 
+<br>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:00C9FF&height=75&section=footer"
