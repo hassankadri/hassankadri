@@ -8,16 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v5
-
-      - uses: yoshi389111/github-profile-3d-contrib@0.9.3
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.9.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           username: hassankadri
-
       - name: Commit & push
         run: |
           git config user.name github-actions
