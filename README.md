@@ -13,12 +13,12 @@
 <tr>
 <td bgcolor="#0d1117" align="center" valign="top">
 <br>
-<img src="portrait.svg" width="350" alt="Hassan Kadri">
+<img src="portrait.svg" width="400" alt="Hassan Kadri">
 <br><br>
 </td>
 <td bgcolor="#0d1117" align="center" valign="top">
 <br>
-<img src="terminal-card.svg" width="820" alt="Hassan Kadri stats">
+<img src="terminal-card.svg" width="920" alt="Hassan Kadri stats">
 <br><br>
 </td>
 </tr>
