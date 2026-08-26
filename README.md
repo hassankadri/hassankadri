@@ -6,22 +6,17 @@
 
 <table width="100%" border="1" cellspacing="0" cellpadding="0">
 <tr>
-<td bgcolor="#0d1117" style="padding:12px 16px;">
+<td bgcolor="#0d1117">
 🔴 🟡 🟢 &nbsp; <b>hassankadri — profile</b>
 </td>
 </tr>
 <tr>
-<td bgcolor="#0d1117">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="34%" valign="top" align="center">
-<img src="portrait.svg" width="100%" style="display:block;" alt="Hassan Kadri">
-</td>
-<td width="66%" valign="top" align="left">
-<img src="terminal-card.svg" width="100%" alt="Hassan Kadri stats">
-</td>
-</tr>
-</table>
+<td bgcolor="#0d1117" align="center">
+<br>
+<img src="portrait.svg" width="200" alt="Hassan Kadri">
+<br><br>
+<img src="terminal-card.svg" width="90%" alt="Hassan Kadri stats">
+<br><br>
 </td>
 </tr>
 </table>
@@ -36,7 +31,7 @@
 <a href="mailto:hassankadri16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://linkedin.com/in/hassan-kadri-a033a3423"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<br><br>
+</div>
 
 
 
