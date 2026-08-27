@@ -145,13 +145,15 @@ Atharva Institute of Information Technology, Mumbai · *July 2023 – June 2026*
 
 <br>
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b2a3a&height=70&section=header&text=Contribution%20Graph&fontSize=26&fontColor=5EE6D0&fontAlignY=55&animation=fadeIn" width="100%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassankadri&theme=react-dark&hide_border=true&area=true&line=5EE6D0&point=5EE6D0&area_color=5EE6D0&bg_color=0D1117&color=c9d1d9" width="100%">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassankadri&theme=dark&hide_border=true&background=0D1117&ring=5EE6D0&fire=F2A65A&currStreakLabel=5EE6D0&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassankadri/hassankadri/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassankadri/hassankadri/output/snake-light.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/hassankadri/hassankadri/output/snake-dark.svg" width="100%">
+</picture>
 
 <br><br>
 
